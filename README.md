@@ -3,7 +3,7 @@
 This repository contains the code, data processing scripts, and experiments accompanying the paper:
 
 **Uncertainty Is Not a Safety Net for Clinical VQA, but Can It Anticipate Model Failure?**  
-Arnisa Fazla*, Alberto Testoni∗, Ameen Abu-Hanna, Barbara Plank, Iacer Calixto
+Arnisa Fazla*, Alberto Testoni∗, Ameen Abu-Hanna, Barbara Plank, Iacer Calixto     
 [arXiv:2606.16583](https://arxiv.org/abs/2606.16583) - Accepted to EMNLP 2026 (Findings).
 
 <!-- <p align="center"> <img src="./images/fig_1.png" width="300"/> </p>
@@ -26,7 +26,7 @@ In this work, we systematically study whether current UE methods provide a relia
 1. **Benchmarking uncertainty estimation.**
 We systematically benchmark 8 uncertainty estimation methods across 12 clinical VLMs on clinical VQA, evaluating how reliably uncertainty identifies correct and incorrect predictions.
 2. **Characterizing the dependence of UE quality on model accuracy.**
-We find that UE quality is not an intrinsic property of the uncertainty estimation method. Instead, it closely tracks model accuracy, degrading precisely where model performance is weakest—and where reliable uncertainty estimates are most needed.
+We find that UE quality is not an intrinsic property of the uncertainty estimation method. Instead, it closely tracks model accuracy, degrading precisely where model performance is weakest, and where reliable uncertainty estimates are most needed.
 3. **Stress-testing uncertainty with NOTA perturbations.**
 We introduce NOTA (None-of-the-Above) perturbations, which hide the correct answer among the multiple-choice options. Under this stress test, model accuracy collapses while uncertainty changes only marginally, revealing systematic miscalibration and a failure of current UE methods to reflect prediction fragility.
 4. **Using uncertainty as a diagnostic signal of model fragility.**
