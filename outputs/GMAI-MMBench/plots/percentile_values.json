@@ -1,0 +1,118 @@
+{
+    "medgemma-4b-it": {
+        "LabelNLL": 0.751719,
+        "ANLL": 0.234963,
+        "MaxNLL": 0.810471,
+        "SC": 0.5,
+        "SE": 0.693147,
+        "PRO": 1.806603,
+        "EE_embeddings-biomedical": 66.430787,
+        "RDS_embeddings-biomedical": 88.260269
+    },
+    "qwen_2_vl_7b_instruct": {
+        "LabelNLL": 1.509253,
+        "ANLL": 0.759617,
+        "MaxNLL": 1.509253,
+        "SC": 0.5,
+        "SE": 0.693147,
+        "PRO": 3.552172,
+        "EE_embeddings-biomedical": 15.055212,
+        "RDS_embeddings-biomedical": 42.234093
+    },
+    "Qwen2.5-VL-7B-Instruct": {
+        "LabelNLL": 1.554718,
+        "ANLL": 0.542334,
+        "MaxNLL": 1.640388,
+        "SC": 0.6,
+        "SE": 1.220607,
+        "PRO": 3.06904,
+        "EE_embeddings-biomedical": 90.726731,
+        "RDS_embeddings-biomedical": 103.322018
+    },
+    "Molmo-7B-D-0924": {
+        "LabelNLL": 1.407415,
+        "ANLL": 0.487023,
+        "MaxNLL": 2.299897,
+        "SC": 0.6,
+        "SE": 1.279854,
+        "PRO": 2.918703,
+        "EE_embeddings-biomedical": 102.617317,
+        "RDS_embeddings-biomedical": 111.265067
+    },
+    "llava_1.6_7b": {
+        "LabelNLL": 1.545558,
+        "ANLL": 0.355781,
+        "MaxNLL": 1.577842,
+        "SC": 0.7,
+        "SE": 1.359306,
+        "PRO": 2.441564,
+        "EE_embeddings-biomedical": 94.451395,
+        "RDS_embeddings-biomedical": 106.293675
+    },
+    "LLaVA-OneVision-1.5-8B-Instruct": {
+        "LabelNLL": 1.725369,
+        "ANLL": 1.853463,
+        "MaxNLL": 3.437706,
+        "SC": 0.666667,
+        "SE": 1.320888,
+        "PRO": 2.944358,
+        "EE_embeddings-biomedical": 106.050122,
+        "RDS_embeddings-biomedical": 112.08373
+    },
+    "medgemma-27b-it": {
+        "LabelNLL": 0.993049,
+        "ANLL": 0.424614,
+        "MaxNLL": 2.303788,
+        "SC": 0.501667,
+        "SE": 1.0889,
+        "PRO": 2.679193,
+        "EE_embeddings-biomedical": 78.03155,
+        "RDS_embeddings-biomedical": 96.845882
+    },
+    "Qwen2.5-VL-32B-Instruct": {
+        "LabelNLL": 1.397342,
+        "ANLL": 0.438038,
+        "MaxNLL": 2.452194,
+        "SC": 0.6,
+        "SE": 1.168282,
+        "PRO": 2.789143,
+        "EE_embeddings-biomedical": 85.806787,
+        "RDS_embeddings-biomedical": 101.615283
+    },
+    "Molmo-72B-0924": {
+        "LabelNLL": 1.357352,
+        "ANLL": 0.450638,
+        "MaxNLL": 2.300834,
+        "SC": 0.6,
+        "SE": 1.0889,
+        "PRO": 2.821382,
+        "EE_embeddings-biomedical": 95.35327,
+        "RDS_embeddings-biomedical": 107.647472
+    },
+    "Qwen2.5-VL-72B-Instruct": {
+        "LabelNLL": 1.38909,
+        "ANLL": 0.898471,
+        "MaxNLL": 2.809931,
+        "SC": 0.666667,
+        "SE": 1.278895,
+        "PRO": 3.096381,
+        "EE_embeddings-biomedical": 108.465239,
+        "RDS_embeddings-biomedical": 112.337593
+    },
+    "gpt-4.1-mini": {"LabelNLL": 1.009307,
+        "ANLL": 0.260516,
+        "MaxNLL": 1.063961,
+        "SC": 0.6,
+        "SE": 1.0889,
+        "PRO": 1.920304,
+        "EE_embeddings-biomedical": 83.661262,
+        "RDS_embeddings-biomedical": 98.926212},
+    "llava_1.6_34b": {"LabelNLL": 1.600437,
+        "ANLL": 1.296566,
+        "MaxNLL": 2.81243,
+        "SC": 0.645417,
+        "SE": 1.279854,
+        "PRO": 2.669481,
+        "EE_embeddings-biomedical": 98.15686,
+        "RDS_embeddings-biomedical": 107.949686}
+    }

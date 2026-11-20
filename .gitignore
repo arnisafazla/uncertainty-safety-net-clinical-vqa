@@ -1,0 +1,7 @@
+__pycache__/
+
+code/notebooks/tests.ipynb
+code/.env
+data/
+models/
+plots_and_tables/
